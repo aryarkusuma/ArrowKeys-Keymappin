@@ -1,4 +1,4 @@
-# Alt+awsd-to-Arrow-Keys
+# Alt+awsd to Arrow-Keys
 
 Script for addin keymappin shortcut of Arrow Keys, by using Alt+awsd
 
