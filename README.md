@@ -1,1 +1,1 @@
-# Autohotkey2.0 -- Alt+AWSD-to-Arrow-Keys
+# Autohotkey v2.0 -- Alt+AWSD-to-Arrow-Keys
